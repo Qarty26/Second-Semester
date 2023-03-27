@@ -1,0 +1,2 @@
+0---(a)--->1---(b)--->1---(b)--->1---(b)--->1---(c)--->3
+Cuvant NEacceptat. Cuvantul nu duce intr-o stare finala.
